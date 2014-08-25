@@ -1,5 +1,7 @@
+*.swo
 *.pyc
 *.aux
 *.log
 *.out
 *.pdf
+*.ipynb_checkpoints
